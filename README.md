@@ -1,16 +1,11 @@
-# contact_thingy
+# Mass contact deleter
 
-A new Flutter project.
+Delete many contacts matching a search query all at once!
 
-## Getting Started
+*Do you have many contacts that contain a certain string that you want to get rid of, and they are too many to delete one by one? Maybe thousands of contacts containing the word "work"? This is the app for you!*
 
-This project is a starting point for a Flutter application.
+**DISCLAIMER: I did this app in one hour. I am not responsible for loss of data (contacts) due to accidentally confirming the deletion, or due to a potential bug in the app.**
 
-A few resources to get you started if this is your first Flutter project:
+I needed to delete thousands of contacts from my phone and I was not willing to do it one by one. The app worked for me and I was able to do what I wanted to do.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> NOTE: Please manually grant the contacts permission using the operating system's settings before using the app, otherwise it will crash.
