@@ -8,7 +8,7 @@ Delete many contacts matching a search query all at once!
 
 I needed to delete thousands of contacts from my phone and I was not willing to do it one by one. The app worked for me and I was able to do what I wanted to do.
 
-> NOTE: Please manually grant the contacts permission using the operating system's settings before using the app, otherwise it will crash.
+> ❗ NOTE: Please manually grant the contacts permission using the operating system's settings before using the app, otherwise it will crash.
 
 ## Screenshot
 
