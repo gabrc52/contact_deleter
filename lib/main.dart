@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 builder: (context) =>
                                     const CupertinoAlertDialog(
                                   title: Text(
-                                    'Please wait, deleting',
+                                    'Please wait, deleting...',
                                   ),
                                 ),
                               );
