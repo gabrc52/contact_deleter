@@ -12,4 +12,4 @@ I needed to delete thousands of contacts from my phone and I was not willing to 
 
 ## Screenshot
 
-![screenshot.png](screenshot)
+![screenshot](screenshot.png)
